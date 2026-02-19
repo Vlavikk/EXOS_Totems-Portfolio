@@ -1,3 +1,14 @@
+## Info
+### Task
+Create custom totems with unique mechanics. Add the ability to programmatically add new totems
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><strong>Version</strong><br>1.1</td>
+    <td><strong>Development date</strong><br>21.09.24</td>
+    <td><strong>Is supported</strong><br>🟢</td>
+  </tr>
+</table>
+
 # Totems
 Custom effects with passive and active effects. Each totem has attributes:
 - Effect in the player's hand (passive or active)
